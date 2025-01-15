@@ -1,2 +1,3 @@
 # ML-Project
 Fake news detection involves using machine learning techniques to analyze text and identify false or misleading information. This often includes natural language processing (NLP) to assess linguistic patterns, sentiment, and factual accuracy in news articles or social media content.
+Heart disease prediction involves utilizing machine learning models to analyze medical data, such as patient history, cholesterol levels, blood pressure, and other health indicators, to assess the likelihood of cardiovascular conditions. These models help in early diagnosis and personalized treatment planning.
